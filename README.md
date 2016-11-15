@@ -58,4 +58,6 @@ PART #go-nuts
 
 Gobot is still a simple bot but I am in the process of turning it into a [Markov Chain bot](http://stackoverflow.com/questions/5306729/how-do-markov-chain-chatbots-work). TLDR: A Markov Chain bot will generate new sentences using the words said previously and build intelligible replies.
 
+Note: It still has a few bugs - the formatting can be improved and I am working on it! 
+
 If you'd like to know more or want to get in touch, please email at nikitaraghunath at gmail dot com or visit https://nikinath.github.io/.
