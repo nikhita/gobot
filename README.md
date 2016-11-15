@@ -32,6 +32,7 @@ go build
 
 ## Usage
 
+gobot connects to the Freenode server and can be used to join any channel of your choice.
 Currently, Gobot offers you these three commands:
 
 ```
