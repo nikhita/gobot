@@ -1,6 +1,6 @@
 # gobot
 
-Gobot is an IRC bot written in Golang - that can currently annoy you by repeating what you tell it. 
+Gobot is an IRC bot written in Golang - that can currently annoy you by repeating what you say to it.
 
 Here is an example of it in practice:
 
