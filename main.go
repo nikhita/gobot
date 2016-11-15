@@ -58,9 +58,9 @@ func main() {
 	fmt.Print(`
 For IRC protocol description, read rfc1459: https://tools.ietf.org/html/rfc1459
 Some basics:
-	JOIN    <channel>{,<channel>} [<key>{,<key>}]
-	PRIVMSG <receiver>{,<receiver>} <text to be sent>
-	PART    <channel>{,<channel>}
+	JOIN    <channel> [<key>]
+	PRIVMSG <nick> <message to be sent>
+	PART    <channel>
 `)
 
 	// handle incomming messages
